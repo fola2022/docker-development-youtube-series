@@ -23,6 +23,7 @@ spec:
       containers:
       - name: example-app-1
         image: example-app-1:0.0.2
+        imagePullPolicy: Never
         ports:
         - containerPort: 5000
         volumeMounts:
