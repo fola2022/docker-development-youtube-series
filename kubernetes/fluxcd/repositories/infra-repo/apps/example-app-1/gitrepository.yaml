@@ -8,4 +8,5 @@ spec:
   ref:
     branch: master
 
-  url: https://github.com/marcel-dempers/docker-development-youtube-series
+  url: https://github.com/fola2022/docker-development-youtube-series
+
